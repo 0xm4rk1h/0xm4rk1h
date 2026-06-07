@@ -14,7 +14,7 @@ I’ve spent a lot of time behind a keyboard. My academic background has always 
 > You can find these projects on my GitHub.
 
 # Others
-- **Human Collapse**: A Minecraft modpack focused on technology and automation, with the goal of uncovering the truth. Obtaining the “Tome of Knowledge” grants you a book containing clues to discover that truth, and you will need to use *cryptography* and *steganography* to achieve it.
+- **[Human Collapse](https://github.com/0xm4rk1h/Human-Collapse)**: A Minecraft modpack focused on technology and automation, with the goal of uncovering the truth. Obtaining the “Tome of Knowledge” grants you a book containing clues to discover that truth, and you will need to use *cryptography* and *steganography* to achieve it.
 
 # Links
 - Website: https://0xm4rk1h.github.io
