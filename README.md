@@ -10,7 +10,7 @@ I’ve spent a lot of time behind a keyboard. My academic background has always 
 > You can find these articles on my Website.
 
 # Projects
-- **RapidResolve**: A console that enables Help Desk technicians to quickly access standardized message templates for incident ticket handling.
+- **[RapidResolve](https://github.com/0xm4rk1h/RapidResolve)**: A console that enables Help Desk technicians to quickly access standardized message templates for incident ticket handling.
 > You can find these projects on my GitHub.
 
 # Others
